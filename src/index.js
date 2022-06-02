@@ -5,7 +5,7 @@ import { Book } from './components/Books/Book';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Book/> 
+    <Book/>  
   </React.StrictMode>
 );
 
