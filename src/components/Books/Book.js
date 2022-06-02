@@ -393,7 +393,7 @@ export let Book=()=>{
                 setEducational("Educational");
                 return setCurrentbook([...data]);
             }
-        }  
+        }   
 
         let handlenovel=()=>{
             if(novel==="Novel"){
